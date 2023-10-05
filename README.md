@@ -1,4 +1,4 @@
-# Jenkins-project 😃 
+# Jenkins-project 🙂
 
 # AWS Instance
 - Go to AWS Console
