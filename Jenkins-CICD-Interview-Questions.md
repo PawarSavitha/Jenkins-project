@@ -74,7 +74,7 @@ A: Shared modules in Jenkins refer to a collection of reusable code and resource
         
         - Jenkinsfile: A shared Jenkinsfile can be used to define the build process for multiple jobs, reducing duplication and making it easier to manage the build process for multiple projects.
         
-        - Plugins: Common plugins can be installed once as a shared module and reused across multiple jobs, reducing the overhead of managing plugins on individual jobs.
+        - Plugins: Common plugins can be installed once as a  shared module and reused across multiple jobs, reducing the overhead of managing plugins on individual jobs.
         
         - Global Variables: Shared global variables can be defined and used across multiple jobs, making it easier to manage common build parameters such as version numbers, artifact repositories, and environment variables.
 ```
